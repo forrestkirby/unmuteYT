@@ -22,7 +22,7 @@ Please see [Unmute YouTube background video 2: Revenge of the UX](https://yoothe
 
 ## About
 
-Note that this is not an official YOOtheme product.
+unmuteYT is a custom script for YOOtheme Pro developed by YOOtheme.
 
 ## Links
 
