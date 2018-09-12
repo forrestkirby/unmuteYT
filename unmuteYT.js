@@ -1,4 +1,4 @@
-// author: forrestkirby https://github.com/forrestkirby
+// @author forrestkirby github.com/forrestkirby
 
 var ytPlayer = null,
     ytButton = null,
