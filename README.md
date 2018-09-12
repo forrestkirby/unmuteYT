@@ -1,7 +1,7 @@
 # unmuteYT
 Unmute YouTube background videos in the YOOtheme Pro Page Builder
 
-Copyright (C) 2018 [forrestkirby](https://github.com/forrestkirby)
+Copyright (C) 2018 forrestkirby github.com/forrestkirby
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
