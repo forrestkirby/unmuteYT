@@ -1,7 +1,7 @@
 # unmuteYT
-Unmute YouTube background videos in the YOOtheme Pro Page Builder
+Unmute YouTube or Vimeo background videos in the YOOtheme Pro Page Builder
 
-Copyright (C) 2018 forrestkirby github.com/forrestkirby
+Copyright (C) 2018–2021 forrestkirby github.com/forrestkirby
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -22,7 +22,7 @@ Please see [Unmute YouTube background video 2: Revenge of the UX](https://yoothe
 
 ## About
 
-unmuteYT is a custom script for YOOtheme Pro developed by YOOtheme.
+unmuteYT is a custom script for YOOtheme Pro. YOOtheme Pro is a page builder developed by YOOtheme.
 
 ## Links
 
